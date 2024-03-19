@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Pythonスクリプトを実行する関数
 def run_python_script():
-    subprocess.Popen(['python', 'your_script.py'])
+    subprocess.Popen(['python', 'test.py'])
 
 # 新しいファイルを作成し、Visual Studio Codeで開く関数
 def create_and_open_file():
